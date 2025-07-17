@@ -231,4 +231,5 @@ merged_df.to_excel('cleaned_data.xlsx', index=False)
 | `resample()`              | Work with time-based data |
 | `to_csv()` / `to_excel()` | Export data               |
 
----
+
+<center><b>Thanks</b></center>
